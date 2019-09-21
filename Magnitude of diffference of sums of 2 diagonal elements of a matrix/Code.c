@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-//This is a problem to find magnitude (+) of the difference of sum of both the diagonal elements of square matrix.
 //Somehow,, I am not getting an error here, plz help !!
 int main()
 {       int a,b,sum=0,sum1=0,sum2=0,i,j;
